@@ -1,4 +1,3 @@
 bbsmenu.json working-tree-encoding=utf-8
-bbsmenu.html working-tree-encoding=shift_jis
+bbsmenu.html -text
 bbsmenu.utf-8.html working-tree-encoding=utf-8
-bbsmenu.utf-8-bom.html -text # UTF-8 with BOM
