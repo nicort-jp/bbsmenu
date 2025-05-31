@@ -3,6 +3,3 @@ charset = unset
 
 [bbsmenu.utf-8.html]
 charset = utf-8
-
-[bbsmenu.utf-8-bom.html]
-charset = utf-8-bom
